@@ -6,5 +6,6 @@ int tambah (int x, int y){
 }
 
 int main(){
-
+    cout << tambah(5, 3) << endl;
+    return 0;
 }
