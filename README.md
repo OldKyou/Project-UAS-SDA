@@ -1,4 +1,4 @@
-# 🎬 Sistem Pemesanan Tiket Film Sederhana (C++)
+#  Sistem Pemesanan Tiket Film Sederhana (C++)
 
 ## Deskripsi Proyek
 
@@ -204,7 +204,7 @@ Pilih menu:
 
 ## Pembagian Tugas Kelompok
 
-### 👩 Valentsea
+###  Valentsea
 
 **Bagian Class dan Struktur Program**
 
@@ -212,7 +212,7 @@ Pilih menu:
 * Membuat `class BookingSystem`
 * Membuat atribut dan constructor class
 
-### 👨 Khibran
+###  Khibran
 
 **Implementasi Queue**
 
@@ -221,14 +221,14 @@ Pilih menu:
 * Membuat fungsi `showQueue()`
 * Mengelola sistem antrian tiket menggunakan Queue (FIFO)
 
-### 👩 Chesa
+###  Chesa
 
 **Implementasi Stack**
 
 * Membuat fungsi `showHistory()`
 * Mengelola dan menampilkan riwayat pemesanan menggunakan Stack (LIFO)
 
-### 👩 Shafira
+###  Shafira
 
 **Implementasi Main Program**
 
