@@ -33,6 +33,7 @@ public:
         history.push(*ticket);
         return ticket;
     }
+<<<<<<< HEAD
 
     void processNextBooking() {
         if (bookingQueue.empty()) {
@@ -126,3 +127,6 @@ int main() {
 
     return 0;
 }
+=======
+    
+>>>>>>> 8ea7bce00d68cccc4dfe3f34e69a0c638e9dee35
