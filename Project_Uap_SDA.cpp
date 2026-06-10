@@ -26,6 +26,7 @@ public:
         cout << "2. ironman\n";
         cout << "3. mermaidman\n";
     }
+};
 
     Ticket* createBooking(const string& film, int seats) {
         Ticket* ticket = new Ticket{nextId++, film, seats};
